@@ -5,4 +5,6 @@ package com.example.mylibrary;
  */
 public interface ILibApp {
     IDatabase createDB();
+//    IHTTPClient createHTTPClient();
+//    IEntitlements createEntitlements();
 }
