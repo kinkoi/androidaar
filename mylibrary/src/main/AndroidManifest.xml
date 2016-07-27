@@ -21,6 +21,8 @@
         android:supportsRtl="true">
         <activity android:name=".LibMainActivity" />
         <activity android:name=".LibAboutMeActivity"></activity>
+
+        <service android:name=".LibBackGroundService"/>
     </application>
 
 </manifest>
