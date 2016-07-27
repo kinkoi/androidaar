@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0089CE</color>
+    <color name="colorPrimaryDark">#0073AC</color>
+    <color name="colorAccent">#00B4FF</color>
+    <!-- https://www.google.com/design/spec/style/color.html#color-text-background-colors -->
+    <!-- Dark text on light backgrounds rules:  -->
+    <!-- 87% of opacity -->
+    <color name="textColorPrimary">#DE000000</color>
+    <!-- 54% of opacity -->
+    <color name="textColorSecondary">#91000000</color>
+    <!-- 38% of opacity -->
+    <color name="textColorHint">#61000000</color>
+
+    <color name="login_checkbox">@color/textColorHint</color>
+    <color name="tab_background">@color/colorPrimary</color>
+    <color name="tab_indicator">@color/white</color>
+    <color name="tab_selected_tint">@color/white</color>
+    <color name="tab_unselected_tint">#66000000</color>
+    <color name="tab_selected_strip">#FFFFFF</color>
+    <color name="tab_unread_badge">#EE5555</color>
+    <color name="toolbar_background">@color/colorPrimary</color>
+    <color name="unread_pill">@color/colorAccent</color>
+    <color name="system_event_message_color">@color/textColorHint</color>
+    <color name="message_color">#DE000000</color>
+    <color name="black_alpha_34">#57000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="title">#222222</color>
+    <color name="subtitle">#999999</color>
+    <color name="unread_color">#009688</color>
+    <color name="progressbar_bg">#D3D3D3</color>
+    <color name="progressbar_progress">@color/colorPrimary</color>
+    <color name="vertical_divider">#dcdcdc</color>
+    <color name="horizontal_divider">#1A000000</color>
+    <color name="vertical_divider_room_creation">#dcdcdc</color>
+    <color name="avatar_background">#A6003459</color>
+    <color name="avatar_xpod_background">#F58229</color>
+    <color name="loading_error_banner">#FFDC34</color>
+    <color name="row_selected_background">#87CFEB</color>
+    <color name="disabled_button_background">#CCCCCC</color>
+    <color name="login_error_background">#FF0000</color>
+    <color name="login_error_text">@color/white</color>
+    <color name="connection_request_status_text">#63C280</color>
+    <color name="password_strength_empty">#DDDDDD</color>
+    <color name="password_strength_partial">#FF4043</color>
+    <color name="password_strength_full">#66BB66</color>
+    <color name="edit_text_error_line">#FFd50000</color>
+    <color name="edit_text_no_focus_line">#66cccccc</color>
+    <color name="edit_text_focus_line">#FF00b4ff</color>
+    <color name="open_email_title_color">#66BB66</color>
+    <color name="room_action_button_text">#FF0000</color>
+    <color name="room_action_button_bg">#CCCCCC</color>
+    <color name="room_detail_divider">#CCCCCC</color>
+    <color name="black">#000000</color>
+    <color name="black_alpha_87">#DE000000</color>
+    <color name="black_alpha_54">#91000000</color>
+    <color name="black_alpha_25">#40000000</color>
+    <color name="black_alpha_10">#16000000</color>
+    <color name="black_alpha_5">#08000000</color>
+    <color name="message_error">#FF0000</color>
+    <color name="keypad_digit_text">@color/textColorSecondary</color>
+    <color name="pincode_digit_empty">#999999</color>
+    <color name="pincode_digit_full">@color/colorPrimary</color>
+    <color name="quiet_mode_banner_bg">#EE44B3DD</color>
+    <color name="disabled_gray">#CCCCCC</color>
+    <color name="dark_9_per">#16000000</color>
+    <color name="gray_e9">#E9E9E9</color>
+    <color name="search_term_highlight">#BCEBFF</color>
+</resources>
